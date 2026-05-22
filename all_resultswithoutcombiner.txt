@@ -1,0 +1,4 @@
+IT	Total: 574074600484   Avg: 76507   Employees: 7503479
+HR	Total: 573699549945   Avg: 76481   Employees: 7501116
+Sales	Total: 573713506901   Avg: 76511   Employees: 7498405
+Finance	Total: 573550778813   Avg: 76493   Employees: 7498000
